@@ -3,11 +3,11 @@ layout: post
 title:  "블록체인? 가상화폐? 쉽게 이해하기"
 date: 2018-03-26 16:45:00
 categories: Blockchain
-tags: blockchain,블록체인,암호화폐,비트코인,가상화폐,크립토커런시,코인,블록체인개념
+tags: blockchain coin 블록체인 암호화폐 비트코인 가상화폐 크립토커런시 코인 블록체인개념
 cover: "/assets/img/block2.jpg"
 ---
 
-==블록체인 이해하기[1]==
+`블록체인 이해하기[1]`
 
 블록체인? 가상화폐? 비트코인? 작년 말 부터 뉴스와 기사로 도배되고 있는 핫 키워드이다.
 #### *"비트코인은 규제해야한다! 블록체인은 4차산업의 핵심으로 키워야 한다!"*
@@ -42,10 +42,9 @@ cover: "/assets/img/block2.jpg"
 은행이 하던 거래의 보증을 컴퓨터 네트워크가 하게 된 것이다.
 
 ### 블록체인이란?
-$$
-블록체인(block chain)은 말 그대로 정보를 지닌 
-블록(block)이 연결(chain)되어 저장되는 것을 말한다.
-$$
+
+`블록체인(block chain)은 말 그대로 정보를 지닌 
+블록(block)이 연결(chain)되어 저장되는 것을 말한다.`
 
 <a href="/assets/img/block17.jpg">
 <img src="/assets/img/block17.jpg" title="blockchain"></a>
